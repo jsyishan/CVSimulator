@@ -20,7 +20,7 @@ public class Enemy : MonoBehaviour {
 
 	void Update () {
 		if (speed < maxSpeed) {
-			rb.AddForce (transform.up * 2.5f, ForceMode.Force);
+			rb.AddForce (transform.forward * 2.5f, ForceMode.Force);
 			speed = rb.velocity.z;
 			//Debug.Log (speed);
 		}
