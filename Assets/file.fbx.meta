@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: a3b58f1216f15479f8b70dd737d68070
+timeCreated: 1497279347
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: WC40boat
+    100004: WC40brdg
+    100006: WC40ctrl
+    100008: WC40dct
+    100010: WC40deck
+    100012: WC40glas
+    100014: WC40grid
+    100016: WC40grnd
+    100018: WC40hat
+    100020: WC40hlx
+    100022: WC40horl
+    100024: WC40inc4
+    100026: WC40iron
+    100028: WC40main
+    100030: WC40mast
+    100032: WC40misc
+    100034: WC40plat
+    100036: WC40rack
+    100038: WC40rail
+    100040: WC40rail_MeshPart0
+    100042: WC40rail_MeshPart1
+    100044: WC40sboa
+    100046: WC40spot
+    100048: WC40stai
+    100050: WC40stck
+    100052: WC40stck 1
+    100054: WC40tlbr
+    100056: WC40tlbr_MeshPart0
+    100058: WC40tlbr_MeshPart1
+    100060: WC40towe
+    100062: WC4Odoor
+    400000: //RootNode
+    400002: WC40boat
+    400004: WC40brdg
+    400006: WC40ctrl
+    400008: WC40dct
+    400010: WC40deck
+    400012: WC40glas
+    400014: WC40grid
+    400016: WC40grnd
+    400018: WC40hat
+    400020: WC40hlx
+    400022: WC40horl
+    400024: WC40inc4
+    400026: WC40iron
+    400028: WC40main
+    400030: WC40mast
+    400032: WC40misc
+    400034: WC40plat
+    400036: WC40rack
+    400038: WC40rail
+    400040: WC40rail_MeshPart0
+    400042: WC40rail_MeshPart1
+    400044: WC40sboa
+    400046: WC40spot
+    400048: WC40stai
+    400050: WC40stck
+    400052: WC40stck 1
+    400054: WC40tlbr
+    400056: WC40tlbr_MeshPart0
+    400058: WC40tlbr_MeshPart1
+    400060: WC40towe
+    400062: WC4Odoor
+    2300000: WC40boat
+    2300002: WC40brdg
+    2300004: WC40ctrl
+    2300006: WC40dct
+    2300008: WC40deck
+    2300010: WC40glas
+    2300012: WC40grid
+    2300014: WC40grnd
+    2300016: WC40hat
+    2300018: WC40hlx
+    2300020: WC40horl
+    2300022: WC40inc4
+    2300024: WC40iron
+    2300026: WC40main
+    2300028: WC40mast
+    2300030: WC40misc
+    2300032: WC40plat
+    2300034: WC40rack
+    2300036: WC40rail_MeshPart0
+    2300038: WC40rail_MeshPart1
+    2300040: WC40sboa
+    2300042: WC40spot
+    2300044: WC40stai
+    2300046: WC40stck
+    2300048: WC40stck 1
+    2300050: WC40tlbr_MeshPart0
+    2300052: WC40tlbr_MeshPart1
+    2300054: WC40towe
+    2300056: WC4Odoor
+    3300000: WC40boat
+    3300002: WC40brdg
+    3300004: WC40ctrl
+    3300006: WC40dct
+    3300008: WC40deck
+    3300010: WC40glas
+    3300012: WC40grid
+    3300014: WC40grnd
+    3300016: WC40hat
+    3300018: WC40hlx
+    3300020: WC40horl
+    3300022: WC40inc4
+    3300024: WC40iron
+    3300026: WC40main
+    3300028: WC40mast
+    3300030: WC40misc
+    3300032: WC40plat
+    3300034: WC40rack
+    3300036: WC40rail_MeshPart0
+    3300038: WC40rail_MeshPart1
+    3300040: WC40sboa
+    3300042: WC40spot
+    3300044: WC40stai
+    3300046: WC40stck
+    3300048: WC40stck 1
+    3300050: WC40tlbr_MeshPart0
+    3300052: WC40tlbr_MeshPart1
+    3300054: WC40towe
+    3300056: WC4Odoor
+    4300000: WC40main
+    4300002: WC40boat
+    4300004: WC40brdg
+    4300006: WC40ctrl
+    4300008: WC40dct
+    4300010: WC40deck
+    4300012: WC40glas
+    4300014: WC40grid
+    4300016: WC40grnd
+    4300018: WC40hat
+    4300020: WC40hlx
+    4300022: WC40horl
+    4300024: WC40inc4
+    4300026: WC40iron
+    4300028: WC40mast
+    4300030: WC40misc
+    4300032: WC40plat
+    4300034: WC40rack
+    4300036: WC40rail_MeshPart0
+    4300038: WC40rail_MeshPart1
+    4300040: WC40sboa
+    4300042: WC40spot
+    4300044: WC40stai
+    4300046: WC40stck
+    4300048: WC40stck
+    4300050: WC40tlbr_MeshPart0
+    4300052: WC40tlbr_MeshPart1
+    4300054: WC40towe
+    4300056: WC4Odoor
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+{
+	"plane": {
+		"group": 3,
+		"speed": 180.0,
+		"torp": {
+			"type": "us",
+			"speed": 35.0
+		}
+	},
+	"enemy": {
+		"length": 100.0,
+		"speed": 35.0,
+		"helm": 5.0
+	}
+}
